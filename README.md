@@ -39,9 +39,9 @@ Clustering Models:
 
 ## Files Included
 
-data/: Cleaned dataset used for analysis.
-code/: Python scripts for data preprocessing, feature engineering, model training, and evaluation.
-Outputs/: Output files, including metrics, visualizations, and cluster summaries.
+data/: Cleaned dataset used for analysis.     
+code/: Python scripts for data preprocessing, feature engineering, model training, and evaluation.     
+Outputs/: Output files, including metrics, visualizations, and cluster summaries.     
 
 ## Contributors
 
