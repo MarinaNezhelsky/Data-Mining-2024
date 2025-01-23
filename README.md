@@ -45,7 +45,7 @@ Outputs/: Output files, including metrics, visualizations, and cluster summaries
 
 ## Contributors
 
-Marina Nezhelsky
+Marina Nezhelsky     
 Eden Cohen
 
 
