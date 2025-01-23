@@ -1,15 +1,14 @@
-Bus Routes Analysis in Israel - 2024
+# Bus Routes Analysis in Israel - 2024
 
-Overview
+### Overview
 
 This project analyzes bus route data in Israel for the year 2024. It focuses on both supervised and unsupervised learning methods to classify bus routes by metropolitan areas and to cluster routes based on similar characteristics. The goal is to optimize public transportation management by leveraging data-driven insights.
 
-Project Objectives
+### Project Objectives
 
-Supervised Learning:
+#### Supervised Learning:
 
 Problem: Assign bus routes to specific metropolitan areas based on unique route attributes such as origin city, destination city, service type, operating times, and passenger traffic.
-
 Goal: Develop a classification model to predict the metropolitan area for each bus route and enable optimized management for each region.
 
 Unsupervised Learning:
